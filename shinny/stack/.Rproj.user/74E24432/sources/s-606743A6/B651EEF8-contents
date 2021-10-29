@@ -1,0 +1,7 @@
+#设置global用户名
+git config --global user.name "wanqiangdehuoguo"
+#设置global邮箱
+git config --global user.email 1223687017@qq.com
+#生成rsa私人密匙
+ssh-keygen -t rsa -C "1223687017@qq.com"
+#注意，如果不希望每次git操作时输入安全口令passphrase要输入为空
