@@ -12,5 +12,11 @@
 ```
 Author: Chengjian Jiang, Jinhui Li, Yimeng Sang
 Writed at 2021.10.30
-Orcid: ![](https://orcid.org/0000-0001-5842-3178)
+Email: jiangcj@gxu.edu.cn
+State Key Laboratory for Conservation and Utilization of Subtropical Agro-Bioresources, 
+Guangxi Research Center for Microbial and Enzyme Engineering Technology, 
+College of Life Science and Technology, 
+Guangxi University, 
+Nanning 530004, China
 ```
+Orcid: ![](https://orcid.org/0000-0001-5842-3178)
