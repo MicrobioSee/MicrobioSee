@@ -1,6 +1,6 @@
 # MicrobioSee v1.3
 - This is a tools for ploting.
-[MicrobioSee](https://microbiosee.gxu.edu.cn/images/pic01.jpg)
+![MicrobioSee](https://microbiosee.gxu.edu.cn/images/pic01.jpg)
 - The web-based community microbial metagenome visualization toolkit developed in this study can be used on all operating system platforms that support modern browsers, and MicrobioSee provides data mining and visualization services for the field of microbial integration research.
 
 - MicrobioSee is a complementary toolkit for multi-omics data, and available free of charge from https://microbiosee.gxu.edu.cn; 
