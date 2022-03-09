@@ -9,6 +9,12 @@
 - The main code are available at https://github.com/MicrobioSee/MicrobioSee.
 
 - In this work, we developed MicrobioSee, a web-based real-time interactive visualization tool based on web technologies, which could visualize microbial multi-omics data and include seventeen modules surrounding the major omics of microorganisms such as transcriptome, metagenome, and proteome. Subsequently, three case studies were chosen to represent the functional application of MicrobioSee. Overall, we provide a concise tool along with user-friendly, time-saving, cross-platform, and source-opening for researchers especially microbiologists without coding experience.
+
+
+**Cite:**
+> Jinhui Li, Yimeng Sang, Sen Zeng, Shuming Mo, Zufan Zhang, Sheng He, Xinying Li, Jianping Liao*, and Chengjian Jiang*. MicrobioSee: a web-based visualization toolkit for multi-omics of microbiology. 2022. DOI: 10.3389/fgene.2022.853612. 
+
+
 ```
 Author: Chengjian Jiang, Jinhui Li, Yimeng Sang, Sen Zeng
 Writed at 2021.10.30
@@ -22,9 +28,5 @@ Nanning 530004, China
 Life is so short, to do something that one wants, and if can be useful to others, then the life is full.      -----Jinhui Li 
 ```
 Orcid: [Jinhui Li](https://orcid.org/0000-0001-5842-3178)
-
-**Cite:**
-> Jinhui Li, Yimeng Sang, Sen Zeng, Shuming Mo, Zufan Zhang, Sheng He, Xinying Li, Jianping Liao*, and Chengjian Jiang*. MicrobioSee: a web-based visualization toolkit for multi-omics of microbiology. 2022. DOI: 10.3389/fgene.2022.853612. 
-
 
 Update Logs：
