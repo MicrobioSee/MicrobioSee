@@ -24,8 +24,6 @@ Life is so short, to do something that one wants, and if can be useful to others
 Orcid: [Jinhui Li](https://orcid.org/0000-0001-5842-3178)
 
 **Cite:**
-**Jinhui Li, Yimeng Sang, Sen Zeng, Shuming Mo, Zufan Zhang, Sheng He, Xinying Li, Jianping Liao*, and Chengjian Jiang*.
-MicrobioSee: a web-based visualization toolkit for multi-omics of microbiology. 2022.
-DOI: 10.3389/fgene.2022.853612.**
+**Jinhui Li, Yimeng Sang, Sen Zeng, Shuming Mo, Zufan Zhang, Sheng He, Xinying Li, Jianping Liao*, and Chengjian Jiang*. MicrobioSee: a web-based visualization toolkit for multi-omics of microbiology. 2022. DOI: 10.3389/fgene.2022.853612.**
 
 Update Logs：
