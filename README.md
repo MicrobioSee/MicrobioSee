@@ -13,7 +13,7 @@
 
 
 **Cite:**
-> Jinhui Li, Yimeng Sang, Sen Zeng, Shuming Mo, Zufan Zhang, Sheng He, Xinying Li, Jianping Liao*, and Chengjian Jiang*. MicrobioSee: a web-based visualization toolkit for multi-omics of microbiology. 2022. DOI: 10.3389/fgene.2022.853612. 
+> Jinhui Li, Yimeng Sang, Sen Zeng, Shuming Mo, Zufan Zhang, Sheng He, Xinying Li, Guijiao Su, Jianping Liao*, and Chengjian Jiang*. MicrobioSee: a web-based visualization toolkit for multi-omics of microbiology. Frontiers in Genetics. 2022. 13: 853612. DOI: 10.3389/fgene.2022.853612. 
 
 
 ```
