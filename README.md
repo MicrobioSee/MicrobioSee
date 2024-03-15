@@ -1,4 +1,5 @@
 # MicrobioSee v1.3
+- **Now, I created a new account, please follow https://github.com/jinhuili-lab**
 - This is a tools for ploting.
 - Please see： https://microbiosee.github.io/
 
