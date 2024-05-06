@@ -1,5 +1,7 @@
-# MicrobioSee v1.3
+# This repository has been archived. Please refer to the MicrobioSee2. https://github.com/jinhuili-lab/MicrobioSee2
 ## **Now, I created a new account, please follow https://github.com/jinhuili-lab**
+# MicrobioSee v1.3
+
 - This is a tool for plotting.
 - Please see： https://microbiosee.github.io/
 
