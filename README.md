@@ -1,4 +1,5 @@
-# This repository has been archived. We developed a desktop version. Please take a look at the MicrobioSee2. https://github.com/jinhuili-lab/MicrobioSee2
+# This repository has been archived. We developed a desktop version. Please take a look at the MicrobioSee2. 
+# Click https://github.com/jinhuili-lab/MicrobioSee2
 
 # MicrobioSee v1.3
 
